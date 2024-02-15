@@ -1,0 +1,18 @@
+版权声明
+O'Reilly Media, Inc. 介绍
+译者序
+前言
+第 1 章　神经网络的复习
+第 2 章　自然语言和单词的分布式表示
+第 3 章　word2vec
+第 4 章　word2vec的高速化
+第 5 章　循环神经网络
+第 6 章　Gated RNN
+第 7 章　基于 RNN 生成文本
+第 8 章　Attention
+附录 A　sigmoid 函数和 tanh 函数的导数
+附录 B　运行 WordNet
+附录 C　GRU
+后记
+参考文献
+· · · · · · (收起)

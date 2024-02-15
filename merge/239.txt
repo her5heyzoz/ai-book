@@ -1,0 +1,52 @@
+Preface
+Chapter 1£ºIntroduction
+Understanding natural language processing
+Understanding basic applications
+Understanding advanced applications
+Advantages of togetherness¡ªN LP and Python
+Environment setup for NLTK
+Tips for readers
+Summary
+Chapter 2£ºPractical Understanding of a Corpus and Datase
+What is a corpus?
+Why do we need a corpus?
+UnderStanding corpus analysis
+Exercise
+Understanding types of data attributes
+Categorical or qualitative data attributes
+Numeric or quantitative data attributes
+Exploring different file formats for corpora
+Resources for accessing free corpora
+Preparing a dataset for NLP applications
+Selecting data
+Preprocessing the dataset
+Formatting
+Cleaning
+Sampling
+Transforming data
+Web scraping
+Summary
+Chapter 3£ºUnderstanding the Structure of a Sentences
+Understanding components of NLP
+Natural language understanding
+Natural language generation
+Differences between NLU and NLG
+Branches nf NLP
+Defining context-free grammar
+Exercise
+Morphological analysis
+What is morphology?
+What are morphemes?
+What is a stem?
+What is morphological analysis?
+What iS a word?
+Classification of morphemes
+Free morphemes
+Bound morphemes
+Derivational morphemes
+Inflectional morphemes
+What is the difference between a stem and a root?
+Exercise
+Lexical analysis
+......
+¡¤ ¡¤ ¡¤ ¡¤ ¡¤ ¡¤ (ÊÕÆð)

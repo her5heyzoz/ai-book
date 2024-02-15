@@ -1,0 +1,137 @@
+µ¼¶Á 1
+Contributors 17
+Preface 23
+Part I Fundamental aspects 1
+1 Ontology and the lexicon£º a multidisciplinary perspective 3
+1.1 Situating ontologies and lexical resources 3
+1.2 The content of ontologies 10
+1.3 Theoretical framework for the
+ontologies£¯lexicons interface 14
+1.4 From ontologies to the lexicon and back 21
+1.5 Outline of chapters 23
+2 Formal ontology as interlingua£º the SUMO and
+WordNet linking project and global WordNet 25
+2.1 WordNet 25
+2.2 Principles of construction of formal ontologies
+and lexicons 29
+2.3 Mappings 30
+2.4 Interpreting language 32
+2.5 Global WordNet 33
+2.6 SUMO translation templates 35
+3 Interfacing WordNet with DOLCE£º towards OntoWordNet 36
+3.1 Introduction 36
+3.2 WordNet¡¯s preliminary analysis 37
+3.3 The DOLCE upper ontology 39
+3.4 Mapping WordNet into DOLCE 48
+3.5 Conclusion 52
+4 Reasoning over natural language text by means of FrameNet and ontologies 53
+4.1 Introduction 53
+4.2 An introduction to the FrameNet lexicon 54
+4.3 Linking FrameNet to ontologies for reasoning 56
+4.4 Formalizing FrameNet in OWL DL 57
+4.5 Reasoning over FrameNet¡ªannotated text 62
+4.6 Linking FrameNet to SUMO 66
+4.7 Discussion 69
+4.8 Conclusion and outlook 70
+5 Synergizing ontologies and the lexicon£º a roadmap 72
+5.1 Formal mappings between ontologies 72
+5.2 Evaluation of ontolex resources 73
+5.3 Bridging different lexical models and resources 75
+5.4 Technological framework 77
+Part II Discovery and representation of conceptual systems 79
+6 Experiments of ontology construction with Formal Concept Analysis 81
+6.1 Introduction 81
+6.2 Basic concepts and related work 82
+6.3 Dataset selection and design of experiments 86
+6.4 Evaluation and discussion 92
+6.5 Conclusion and future work 96
+7 Ontology£¬ lexicon£¬ and fact repository as leveraged to interpret events of change 98
+7.1 Introduction 98
+7.2 A snapshot of OntoSem 100
+7.3 Motivation for pursuing deep analysis of events of change 101
+7.4 Increase 102
+7.5 Content divorced from its rendering 114
+7.6 NLP with reasoning and for reasoning 117
+7.7 Conclusion 118
+8 Hantology£º conceptual system discovery based on orthographic convention 122
+8.1 Introduction£º hanzi and conventionalized conceptualization 122
+8.2 General framework 126
+8.3 Conceptualization and classification of the radicals system 128
+8.4 The ontology of a radical as a semantic symbol 132
+8.5 The architecture of Hantology 133
+8.6 OWL encoding of Hantology 137
+8.7 Summary 139
+8.8 Conclusion 142
+9 What¡¯s in a schema£¿ 144
+9.1 Introduction 144
+9.2 An ontology for cognitive linguistics 146
+9.3 The c.DnS ontology 148
+9.4 Schemata£¬ mental spaces£¬ and constructions 161
+9.5 An embodied semiotic metamodel 166
+9.6 Applying Semion to FrameNet and related resources 169
+9.7 Conclusion 181
+Part III Interfacing ontologies and lexical resources 183
+10 Interfacing ontologies and lexical resources 185
+10.1 Introduction 185
+10.2 Classifying experiments in ontologies and lexical resources 185
+10.3 Ontologies and their construction 188
+10.4 How actual resources fit the classification 190
+10.5 Two practical examples 194
+10.6 Available tools for the ontology lexical resource interface 196
+10.7 Conclusion 200
+11 Sinica BOW £¨Bilingual Ontological WordNet£©£ºintegration of bilingual WordNet and SUMO 201
+11.1 Background and motivation 201
+11.2 Resources and structure required in the BOW approach 202
+11.3 Interfacing multiple resources£º a lexicon¡ªdriven approach 204
+11.4 Integration of multiple knowledge sources 207
+11.5 Updating and future improvements 209
+11.6 Conclusion 210
+12 Ontology¡ªbased semantic lexicons£ºmapping between terms and object descriptions 212
+12.1 Introduction 212
+12.2 Why we need semantic lexicons 213
+12.3 More semantics than we need 215
+12.4 The semantics we need is in ontologies 218
+12.5 Conclusion 223
+13 Merging global and specialized linguistic ontologies 224
+13.1 Introduction 224
+13.2 Linguistic ontologies versus formal ontologies 226
+13.3 Specialized linguistic ontologies 229
+13.4 The plug¡ªin approach 230
+13.5 Experiments 236
+13.6 Applications and extensions 237
+13.7 Conclusion 238
+Part IV Learning and using ontological knowledge 239
+14 The life cycle of knowledge 241
+14.1 Introduction 241
+14.2 Using ontolexical knowledge in NLP 242
+14.3 Creating ontolexical knowledge with NLP 249
+14.4 Conclusion 256
+15 The Omega ontology 258
+15.1 Introduction 258
+15.2 Constituents of Omega 258
+15.3 Structure of Omega 260
+15.4 Construction of Omega via merging 263
+15.5 Omega¡¯s auxiliary knowledge sources 264
+15.6 Applications 266
+15.7 Omega 5 and the OntoNotes project 267
+15.8 Discussion and future work 268
+15.9 Conclusion 269
+16 Automatic acquisition of lexico¡ªsemantic knowledge for question answering 271
+16.1 Introduction 271
+16.2 Lexico¡ªsemantic knowledge for QA 272
+16.3 Related work 274
+16.4 Extracting semantically similar words 275
+16.5 Using automatically acquired role and function words 279
+16.6 Using automatically acquired categorized NEs 280
+16.7 Evaluation 283
+16.8 Conclusion and future work 286
+17 Agricultural ontology construction and maintenance in Thai 288
+17.1 Introduction 288
+17.2 A framework of ontology construction and maintenance 290
+17.3 Ontology acquisition from texts 291
+17.4 Ontology acquisitions from a dictionary and a thesaurus 301
+17.5 Integration into an ontological tree 306
+17.6 Conclusion 307
+References 309
+Index 335
+¡¤ ¡¤ ¡¤ ¡¤ ¡¤ ¡¤ (ÊÕÆð)

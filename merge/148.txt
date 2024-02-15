@@ -1,0 +1,14 @@
+1 introduction
+2 concept learning and the general-to-specific ordering
+3 decision tree learing
+4 artificial networks
+5 evaluating hypotheses
+6 batesian learing
+7 computaional learing theory
+8 instance-based learing
+9 genetic algorithms
+10 learing sets of rules
+11 analytical
+12 combining inductive and analytical learning
+13 reinforcement learing
+， ， ， ， ， ， (辺軟)
